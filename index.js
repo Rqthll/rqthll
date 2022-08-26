@@ -17,7 +17,7 @@ const BotName = 'RQTHLL BOT☄';
 const instagram = 'https://www.instagram.com/rqthll_/'; 
 const telegram = 'https://t.me/rqthll'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = '';
+const youtube = 'Tidak Tersedia';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
