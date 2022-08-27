@@ -43,6 +43,8 @@ function foreach(arr, func)
    }
 }
 const conn = new WAConnection()
+//WWEB
+client.version = [2, 2119, 6]
 conn.on('qr', qr =>
 {
    qrcode.generate(qr,
